@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/uneaty/uneaty.socket.io#readme",
   "dependencies": {
-    "uneaty.core": "git+https://github.com/uneaty/uneaty.core.git#feature-projenody",
+    "uneaty.core": "git+https://github.com/uneaty/uneaty.core.git",
     "unity.socket.io": "git+https://github.com/kennelbound-unity/unity.socket.io.git"
   }
 }
