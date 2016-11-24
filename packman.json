@@ -1,0 +1,8 @@
+{
+  "name": "uneaty.socket.io",
+  "export": "Assets/AI",
+  "dependencies": [
+    "uneaty/uneaty.core",
+    "kennelbound-unity/unity.socket.io"
+  ]
+}
